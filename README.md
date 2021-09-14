@@ -7,11 +7,13 @@
 - Entity Framework
 - Dotnet Core WebApi
 - Dotnet Core MVC
-- RabbitMQ
+- RabbitMQ 
 - Redis
 - MSSQL
 - PostgreSQL
 - ASP.NET Web Forms
 - VirusTotal
-
+- Node.js
+- Javascript and relevant libraries (Ajax, Jquery etc.)
+- Selenium and Python (for automated testing)
 
