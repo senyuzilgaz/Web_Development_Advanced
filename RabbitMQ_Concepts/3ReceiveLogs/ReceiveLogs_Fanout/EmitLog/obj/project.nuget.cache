@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "PdaBz8GgkYJk5XkNiUVByq9RCgfHHFagRf8AD8tsQxVLGLt68m3C+XisMJ29+i/yFydifxFkV44KdcQSziL4TA==",
+  "success": true,
+  "projectFilePath": "/home/ilgaz/Desktop/Web_Development/RabbitMQ/3ReceiveLogs/ReceiveLogs_Fanout/EmitLog/EmitLog.csproj",
+  "expectedPackageFiles": [
+    "/home/ilgaz/.nuget/packages/rabbitmq.client/6.2.2/rabbitmq.client.6.2.2.nupkg.sha512",
+    "/home/ilgaz/.nuget/packages/system.memory/4.5.4/system.memory.4.5.4.nupkg.sha512",
+    "/home/ilgaz/.nuget/packages/system.threading.channels/4.7.1/system.threading.channels.4.7.1.nupkg.sha512"
+  ],
+  "logs": []
+}

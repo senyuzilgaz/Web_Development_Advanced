@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+  <ItemGroup>
+    <PackageReference Include="Npgsql.EntityFrameworkCore.PostgreSQL" Version="5.0.7"/>
+    <PackageReference Include="ServiceStack.Redis.Core" Version="5.12.0"/>
+    <PackageReference Include="StackExchange.Redis" Version="2.2.62"/>
+    <PackageReference Include="RabbitMQ.Client" Version="6.2.2"/>
+    <PackageReference Include="System.Web.Optimization.Extensions" Version="1.0.3"/>
+    <PackageReference Include="Vse.Web.Serialization.ControlledSerializationJsonConverter" Version="1.0.4"/>
+    <PackageReference Include="Json.Net" Version="1.0.33"/>
+    <PackageReference Include="Npgsql.EntityFrameworkCore.PostgreSQL.Design" Version="1.1.0"/>
+    <PackageReference Include="Npgsql" Version="5.0.7"/>
+  </ItemGroup>
+</Project>

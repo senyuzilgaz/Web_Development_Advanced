@@ -1,0 +1,1 @@
+SELECT * FROM "transactions_table" ORDER BY id DESC LIMIT 5;

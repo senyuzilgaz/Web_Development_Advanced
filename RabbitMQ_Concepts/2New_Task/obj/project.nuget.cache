@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "rzYazJj3YS/qwSng5jEnheCU1hSLrThqOlNWjH04uRT2oI806sz4qv4VQ7hy6BgltXkwct55BYGLBaJ2mQFmdg==",
+  "success": true,
+  "projectFilePath": "/home/ilgaz/Desktop/Web_Development/RabbitMQ_Concepts/2New_Task/New_Task.csproj",
+  "expectedPackageFiles": [
+    "/home/ilgaz/.nuget/packages/rabbitmq.client/6.2.2/rabbitmq.client.6.2.2.nupkg.sha512",
+    "/home/ilgaz/.nuget/packages/system.memory/4.5.4/system.memory.4.5.4.nupkg.sha512",
+    "/home/ilgaz/.nuget/packages/system.threading.channels/4.7.1/system.threading.channels.4.7.1.nupkg.sha512"
+  ],
+  "logs": []
+}
